@@ -9,4 +9,13 @@
 6. Exercise 
 
 ## HW is to solve all the problems in the Exercise.ipynb file.
-You do not have to hand anything in for this HW.  I will randomly call on people next class. 
+
+# Instructions for submitting the HW
+
+1. **Fork this repository** to your own GitHub account.
+2. **Open a Codespace** from your forked repository.
+3. **Complete your exercise file** in the appropriate folder.
+4. **Rename your file** using your initials, for example: `HM-beginner-exercise.py`.
+5. **Push your changes** to your forked repository.
+
+Once done, submit your work as instructed.
