@@ -13,9 +13,11 @@
 # Instructions for setting up your fork & submitting the HW
 
 1. ✅ **Fork this repository** to your own GitHub account.
-2. 🌿 In your fork, **Create a new branch** name it `week{x}`. Replace `{x}` with the current week. Example: `week2`.
-3. 💻 **Open a Codespace** from your forked repository.
-4. In the Codespace terminal, type `git status` to see which branch you're on.
+    * Make sure it's synced to OUR main branch.
+3. 🌿 In your fork, **Create a new branch** name it `week{x}`. Replace `{x}` with the current week. Example: `week2`.
+   * Make sure it's synced to YOUR main branch.
+4. 💻 **Open a Codespace** from your forked repository on the *main* branch.
+5. In the Codespace terminal, type `git status` to confirm which branch you're on.
     * 🔀 **Navigate to your new branch** with `git checkout {branch}`.
 6. ⚠️ **Don’t edit the original exercise file** directly.  
     * 📄➡️ Instead, copy it, rename it with your initials: `HM_week2_hw.ipynb`, place your copy into the `homeworks` folder and work on *that*.
