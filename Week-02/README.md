@@ -23,3 +23,4 @@
     * ⚠️ Beware of adding everything vs adding specific files, we want to avoid merge conflicts!
 8. 📝 **Commit your changes** with a message like: *"completed week 2 hw"*.
 9. 🚀 **Push your hw file** inside your branch.
+    * DO NOT push or merge to your main branch. Leave it untouched. 
