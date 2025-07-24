@@ -16,8 +16,10 @@
 2. 🌿 **Create a new branch** name it `week{x}`. Replace `{x}` with the current week. Example: `week2`.
 3. 💻 **Open a Codespace** from your forked repository.
 4. 🔀 **Navigate to your new branch** with `git checkout {branch}`.
-5. ⚠️ **Don’t edit the original exercise file** directly.  
-    * 📄➡️ Instead, copy it, rename it with your initials: `HM_week2_exercise.ipynb`, and work on *that*.
-6. ✍️ **Complete your exercise file** in the appropriate folder.
+5. 📂 Create a folder named `homeworks` in the *root* of the repo
+    * ✍️ **Complete your exercise file** in this folder.
+6. ⚠️ **Don’t edit the original exercise file** directly.  
+    * 📄➡️ Instead, copy it, rename it with your initials: `HM_week2_hw.ipynb`, and work on *that*.
 7. 📝 **Commit your changes** with a message like: *"completed week 2 hw"*.
-8. 🚀 **Push your changes** to your branch.
+8. 🚀 **Push your hw file** to your folder inside your branch.
+    * ⚠️ Beware of adding everything vs adding specific files, we want to avoid merge conflicts!
