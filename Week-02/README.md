@@ -20,7 +20,7 @@
 5. In the Codespace terminal, type `git status` to confirm which branch you're on.
     * 🔀 **Navigate to your new branch** with `git checkout {branch}`.
 6. ⚠️ **Don’t edit the original exercise file** directly.  
-    * 📄➡️ Instead, copy it, rename it with your initials: `HM_week2_hw.ipynb`, place your copy into the `homeworks` folder and work on *that*.
+    * 📄➡️ Instead, copy it into the `homeworks` folder and work on *that*. Rename it with your initials: `XX_week2_hw.ipynb`, Example: `HM_week2_hw.ipynb`
 7. **Add/Stage JUST your hw file**
     * ⚠️ Beware of adding everything vs adding specific files, we want to avoid merge conflicts!
 8. 📝 **Commit your changes** with a message like: *"completed week 2 hw"*.
